@@ -1,7 +1,7 @@
 ---
 title: "Resolución De Errores: Acceso a Archivos Y Carpetas Del Escritorio Impedido"
-date: 2025-01-16T03:23:35.421Z
-updated: 2025-01-21T00:01:50.607Z
+date: 2025-03-01T23:30:25.110Z
+updated: 2025-03-07T18:43:59.761Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/01214d410faf08a8a9dafcfa23316cefdeb8c6cafadbefb4d241744b10bac7c7.jpg
@@ -24,17 +24,9 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -73,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -93,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -124,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -169,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -198,24 +170,17 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/railblazer-in-multimedia-craftsmanship-for-2024/"><u>[New] Trailblazer in Multimedia Craftsmanship for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-successful-instant-sharing-online/"><u>[Updated] 2024 Approved Unveiling the Secrets to Successful Instant Sharing Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-selective-image-blurring-techniques/"><u>[Updated] Mastering Selective Image Blurring Techniques</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/breeze-through-any-hidclasssys-complications-quick-fixes-at-hand/"><u>Breeze Through Any HIDCLASS.SYS Complications - Quick Fixes at Hand!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/buying-with-assurance-strategies-for-a-risk-free-shopping-experience-online/"><u>Buying with Assurance: Strategies for a Risk-Free Shopping Experience Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/calculate-the-average-length-of-each-vehicle-in-kilometers-since-1-meter-0001-kilometers/"><u>Calculate the Average Length of Each Vehicle in Kilometers (Since 1 Meter = 0.001 Kilometers).</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/ejemplo-practico-como-anadir-texto-descriptivo-al-video-mp4/"><u>Ejemplo Práctico: Cómo Añadir Texto Descriptivo Al Video MP4</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/experience-top-tier-silence-with-bose-quietcomfort-ultra-earbuds-comprehensive-review/"><u>Experience Top-Tier Silence with Bose QuietComfort Ultra Earbuds - Comprehensive Review</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/free-access-to-complete-films-via-torrent-downloads-expert-guides-and-strategies/"><u>Free Access to Complete Films via Torrent Downloads - Expert Guides and Strategies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-google-pixel-8-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Google Pixel 8 Pro</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-free-graphics-websites-a-compreran-analysis/"><u>In 2024, Top 10 FREE Graphics Websites A Compreran Analysis</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/in-depth-analysis-of-the-keychron-c3-pro-wired-mechanical-keyboard-exceptional-value-and-extensive-functionality/"><u>In-Depth Analysis of the Keychron C3 Pro Wired Mechanical Keyboard - Exceptional Value and Extensive Functionality</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-movies-with-yi-4k-hero/"><u>Mastering Movies with YI 4K HERO</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/maximizing-bbq-experience-with-ge-profiles-smart-indoor-electric-smoker-user-friendly-and-tasty-results/"><u>Maximizing BBQ Experience with GE Profile's Smart Indoor Electric Smoker - User-Friendly and Tasty Results!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ating-the-digital-landscape-free-tools-for-youtube-audio-to-text/"><u>Navigating the Digital Landscape FREE Tools for YouTube Audio to Text</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/the-lenovo-thinkbook-plus-gen-4-reviewed-does-it-challenge-our-preconceptions-about-modern-business-ultrabooks/"><u>The Lenovo ThinkBook Plus Gen 4 Reviewed: Does It Challenge Our Preconceptions About Modern Business Ultrabooks?</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/ultimate-guide-pny-elite-x-type-c-ssd-evaluation-ideal-for-seamless-mobile-data-transfer/"><u>Ultimate Guide: PNY Elite-X Type-C SSD Evaluation - Ideal for Seamless Mobile Data Transfer</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/unveiling-the-capabilities-of-the-anker-solix-c800plus-flashlight-charger-in-our-comprehensive-review/"><u>Unveiling the Capabilities of the Anker Solix C800+ Flashlight Charger in Our Comprehensive Review</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/unveiling-the-govee-rgb-if-floor-lamp-comprehensive-analysis-for-mood-lighting-enthusiasts-and-music-lovers/"><u>Unveiling the Govee RGB IF Floor Lamp: Comprehensive Analysis for Mood Lighting Enthusiasts and Music Lovers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/asus-proart-pa-329q-professional-4k-monitor-review/"><u>Asus ProArt PA 329Q Professional 4K Monitor Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-signs-is-my-text-being-read/"><u>Discover the Signs: Is My Text Being Read?</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/effortlessly-move-images-from-your-iphone-to-mac-a-complete-step-by-step-process/"><u>Effortlessly Move Images From Your iPhone to Mac - A Complete Step-by-Step Process</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/exploring-the-differences-between-dvdplusr-and-dvd-r-key-benefits-of-choosing-dvdplusr-format-for-your-needs/"><u>Exploring the Differences Between DVD+R and DVD-R - Key Benefits of Choosing DVD+R Format for Your Needs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/hot-40-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Hot 40 Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-bringing-heartwarmth-to-the-winter-5-snug-cinematographic-tips/"><u>In 2024, Bringing Heartwarmth to the Winter 5 Snug Cinematographic Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-7-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 7 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/optimal-videos-for-seamless-sharing-on-facebook-a-guide-to-perfect-playback-and-upload-success/"><u>Optimal Videos for Seamless Sharing on Facebook: A Guide to Perfect Playback and Upload Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-troubles-solved-fixes-for-tower-of-fantasy-game-crashes/"><u>PC Troubles? Solved: Fixes for 'Tower of Fantasy' Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-resolve-discord-not-launching-issue/"><u>Solved: How to Resolve 'Discord Not Launching' Issue</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/top-rated-3d-films-in-hd-ultimate-selection-of-1080p-blu-ray-and-free-downloads-for-enjoyment-at-home/"><u>Top-Rated 3D Films in HD - Ultimate Selection of 1080P Blu-Ray and Free Downloads for Enjoyment at Home</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-camera-app-failures/"><u>Troubleshooting Windows 11 Camera App Failures</u></a></li>
 </ul></div>
 
